@@ -1,2 +1,2 @@
 # Mobile-Computing
-Mobile App Development (Project for CS final year)
+Mobile App Development (Project for Mobile Computing Modile - Computer Science final year)
